@@ -15,6 +15,9 @@ function describeTom () {
         description: 'wrapping your existing apps in Docker container for easy deployment'
       },
     ],
+    skills: [
+      'exiting-vim',
+    ],
     type: {
       personality: {
         meyersBriggs: '(I|E)STJ'
