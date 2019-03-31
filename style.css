@@ -7,3 +7,12 @@ body {
 a, a:visited {
   color: #c49480;
 }
+
+.hljs table {
+  color: #839496;
+}
+
+.hljs-ln {
+  font-size: 1.1em;
+  white-space: pre;
+}
