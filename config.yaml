@@ -1,0 +1,34 @@
+disablePathToLower: true
+languageCode: en-us
+title: Tom Saleeba (TechoTom)
+theme: noteworthy
+
+author:
+  name: "Tom Saleeba"
+
+googleAnalytics: UA-101335262-4
+
+params:
+  # Main
+  email: "mailto:tom@techotom.com"
+  twitter: "https://twitter.com/techotom"
+  linkedin: "https://au.linkedin.com/in/tom-saleeba-9781745a"
+
+  # Programming
+  github: "https://github.com/tomsaleeba"
+  stackoverflow: "https://stackoverflow.com/users/1410035/tom-saleeba"
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 1
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 2
+    - name: Blog
+      identifier: blog
+      url: https://blog.techotom.com/
+      weight: 3
