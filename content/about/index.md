@@ -29,5 +29,6 @@ right now.
 
 | Test | Type |
 |------|------|
-| Meyers Briggs| (I\|E)STJ |
+| Meyers Briggs| I(S\|N)TJ |
 | [Four tendencies](https://quiz.gretchenrubin.com/four-tendencies-quiz/) | Questioner |
+| [16personalities.com](https://www.16personalities.com/) | [Architect](https://www.16personalities.com/intj-personality) or [Logistician](https://www.16personalities.com/istj-personality) |
